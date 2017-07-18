@@ -1,3 +1,2 @@
 # taotao_Mall
-An online mall
-Using Spting,Mybatis,SpringMvc to develop this project.
+Using Spring,Mybatis,SpringMvc to develop an online mall.
