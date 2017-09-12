@@ -1,0 +1,13 @@
+/target
+/.settings
+/bin/
+*.classpath
+*.project
+/e3-sso-interface/.settings
+/e3-sso-interface/target
+/e3-sso-interface/*.project
+/e3-sso-interface/*.classpath
+/e3-sso-service/.settings
+/e3-sso-service/target
+/e3-sso-service/*.project
+/e3-sso-service/*.classpath
