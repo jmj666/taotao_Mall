@@ -1,0 +1,13 @@
+/target
+/.settings
+/bin/
+*.classpath
+*.project
+/e3-cart-interface/.settings
+/e3-cart-interface/target
+/e3-cart-interface/*.project
+/e3-cart-interface/*.classpath
+/e3-cart-service/.settings
+/e3-cart-service/target
+/e3-cart-service/*.project
+/e3-cart-service/*.classpath
