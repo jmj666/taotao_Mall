@@ -1,0 +1,13 @@
+/target
+/.settings
+/bin/
+*.classpath
+*.project
+/e3-search-interface/.settings
+/e3-search-interface/target
+/e3-search-interface/*.project
+/e3-search-interface/*.classpath
+/e3-search-service/.settings
+/e3-search-service/target
+/e3-search-service/*.project
+/e3-search-service/*.classpath
