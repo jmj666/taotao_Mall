@@ -1,0 +1,13 @@
+/target
+/.settings
+/bin/
+*.classpath
+*.project
+/e3-order-interface/.settings
+/e3-order-interface/target
+/e3-order-interface/*.project
+/e3-order-interface/*.classpath
+/e3-order-service/.settings
+/e3-order-service/target
+/e3-order-service/*.project
+/e3-order-service/*.classpath
