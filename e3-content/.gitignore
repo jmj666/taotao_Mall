@@ -1,0 +1,13 @@
+/target
+/.settings
+/bin/
+*.classpath
+*.project
+/e3-content-interface/.settings
+/e3-content-interface/target
+/e3-content-interface/*.project
+/e3-content-interface/*.classpath
+/e3-content-service/.settings
+/e3-content-service/target
+/e3-content-service/*.project
+/e3-content-service/*.classpath
